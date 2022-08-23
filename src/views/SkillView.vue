@@ -65,7 +65,7 @@ import TheWelcome from '@/components/TheWelcome.vue'
       <img src="src/assets/laravel.png" width="200" alt="">
     </div>
     <div class="w3-light-yellow">
-  <div class="w3-orange" style="width:65%">65%</div>
+  <div class="w3-orange" style="width:40%">40%</div>
 </div>
  </div>
 </template>
